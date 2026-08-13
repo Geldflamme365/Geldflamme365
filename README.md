@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Geldflamme365/Portfolio">Portfolio</a> ·
+  <a href="https://ackerettim.ch">ackerettim.ch</a> ·
   <a href="https://www.linkedin.com/in/tim-ackeret-74ba5b3b0/">LinkedIn</a> ·
   <a href="mailto:tim@ackeret.org">tim@ackeret.org</a>
 </p>
