@@ -15,12 +15,14 @@
 I'm an 18-year-old Swiss student at the IMS Aarau, training as an application
 developer. Most of what I build starts with a hobby of mine: if something in
 Magic: The Gathering, Warhammer, or my home lab annoys me, I turn it into a
-small tool that makes the hobby better. That's how I learn — real projects,
+small tool that makes the hobby better. That's how I learn - real projects,
 real users (usually me and my friends), real problems.
 
 I care about software that is clean underneath and honest on the surface:
 clear structure, no unnecessary complexity, and interfaces that take the user
 seriously. Right now I'm into web development, APIs, automation, and self-hosting.
+
+i love building openSource and contribuing to the communities i'm in :)
 
 - Building **[MTG Remasurium](https://mtg-remasurium.t-ackeret-inf24.workers.dev/)** — a Magic: The Gathering card finder with collection sync on Cloudflare
 - Digging into backends, databases and edge deployment
