@@ -22,7 +22,7 @@ I care about software that is clean underneath and honest on the surface:
 clear structure, no unnecessary complexity, and interfaces that take the user
 seriously. Right now I'm into web development, APIs, automation, and self-hosting.
 
-i love building openSource and contribuing to the communities i'm in :)
+I love building openSource and contribuing to the communities i'm in :)
 
 - Building **[MTG Remasurium](https://mtg-remasurium.t-ackeret-inf24.workers.dev/)** — a Magic: The Gathering card finder with collection sync on Cloudflare
 - Digging into backends, databases and edge deployment
