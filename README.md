@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tim 👋</h1>
+<h1 align="center">Tim Ackeret</h1>
 
 <p align="center">
   <em>18 · Switzerland · IMS Aarau (application development)</em>
@@ -22,14 +22,14 @@ I care about software that is clean underneath and honest on the surface:
 clear structure, no unnecessary complexity, and interfaces that take the user
 seriously. Right now I'm into web development, APIs, automation, and self-hosting.
 
-- 🔭 Currently building **[MTG Remasurium](https://mtg-remasurium.t-ackeret-inf24.workers.dev/)** — a Magic: The Gathering card finder with collection sync on Cloudflare
-- 🌱 Learning more about backends, databases, and edge deployment
-- 🏠 Running a Synology NAS + Pi-hole home network I built with my dad
-- ⚡ Fun fact: every project of mine can be traced back to a hobby I didn't want to manage in a spreadsheet
+- Building **[MTG Remasurium](https://mtg-remasurium.t-ackeret-inf24.workers.dev/)** — a Magic: The Gathering card finder with collection sync on Cloudflare
+- Digging into backends, databases and edge deployment
+- Running a Synology NAS and a Pi-hole in the home network I built with my dad
+- Pretty much every project of mine started as a hobby I didn't want to manage in a spreadsheet
 
 ---
 
-### 🛠️ Tech I work with
+### Tech I work with
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -44,7 +44,7 @@ seriously. Right now I'm into web development, APIs, automation, and self-hostin
 
 ---
 
-### 🐍 My contributions, eaten
+### My contributions, eaten
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Geldflamme365/Geldflamme365/output/snake-dark.svg" />
