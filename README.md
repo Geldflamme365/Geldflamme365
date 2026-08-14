@@ -25,7 +25,6 @@ seriously. Right now I'm into web development, APIs, automation, and self-hostin
 I love building openSource and contribuing to the communities i'm in :)
 
 - Building **[MTG Remasurium](https://mtg-remasurium.t-ackeret-inf24.workers.dev/)** - a Magic: The Gathering card finder/Deck builder with collection sync on Cloudflare
-- Digging into backends, databases and edge deployment
 - Running a Synology NAS and a Pi-hole in the home network I built with my dad
 - Pretty much every project of mine started as a hobby I didn't want to manage in a spreadsheet
 
